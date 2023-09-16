@@ -1,4 +1,4 @@
-![logo](https://github.com/DibboT/DibboT/blob/master/dibbo.pn](https://github.com/DibboT/DibboT/blob/master/dibbo.jpg)
+![logo](https://github.com/DibboT/DibboT/blob/master/dibbo.jpg)
 
 ### Hi there 👋
 
